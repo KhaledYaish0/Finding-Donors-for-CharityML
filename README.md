@@ -55,11 +55,16 @@ The goal is to help **CharityML**, a fictitious NGO, identify potential donors a
 ## 📁 Project Layout
 
 Finding-Donors-Project/
-├── finding_donors.ipynb # Main notebook (exploration, training, evaluation)
-├── census.csv # U.S. Census dataset
-├── visuals.py # Visualization helper functions
-├── project_description.md # Udacity project brief
-└── README.md # Project documentation
+├── finding_donors.ipynb # Main notebook (exploration, training, evaluation).
+
+├── census.csv # U.S. Census dataset.
+
+├── visuals.py # Visualization helper functions.
+
+├── project_description.md # Udacity project brief.
+
+└── README.md # Project documentation.
+
 
 
 ---
