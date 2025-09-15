@@ -90,5 +90,4 @@ pip install -r requirements.txt
 
 ## 📜 License
 For educational use (Udacity ML Nanodegree project)
-## 📁 Project Layout
 
