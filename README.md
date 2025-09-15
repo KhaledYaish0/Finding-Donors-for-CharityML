@@ -52,6 +52,8 @@ The goal is to help **CharityML**, a fictitious NGO, identify potential donors a
 - **Impact:** Allows targeted marketing to maximize donor ROI
 
 ---
+## 📁 Project Layout
+
 Finding-Donors-Project/
 ├── finding_donors.ipynb # Main notebook (exploration, training, evaluation)
 ├── census.csv # U.S. Census dataset
